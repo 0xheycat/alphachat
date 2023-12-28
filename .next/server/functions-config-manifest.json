@@ -1,0 +1,7 @@
+{
+  "/api/delete-room": {},
+  "/api/new-room": {},
+  "/api/room-messages-pages": {},
+  "/api/room-messages-timestamp": {},
+  "/room": {}
+}

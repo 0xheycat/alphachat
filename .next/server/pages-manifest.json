@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html",
+  "/api/leave-room": "pages/api/leave-room.js",
+  "/": "pages/index.html",
+  "/room-password": "pages/room-password.html",
+  "/api/connect-to-room": "pages/api/connect-to-room.js",
+  "/api/room-messages-pages": "pages/api/room-messages-pages.js",
+  "/room": "pages/room.js",
+  "/api/new-room": "pages/api/new-room.js",
+  "/api/delete-room": "pages/api/delete-room.js",
+  "/api/room-messages-timestamp": "pages/api/room-messages-timestamp.js"
+}

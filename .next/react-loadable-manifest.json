@@ -1,0 +1,56 @@
+{
+  "../client/components/ConnectToRoom/ConnectToRoom.tsx -> @/ui/Modal/Modal": {
+    "id": 59639,
+    "files": [
+      "static/chunks/453.cf81510a88321f30.js",
+      "static/css/337676155b9e7024.css",
+      "static/chunks/639.856346e818d284e4.js"
+    ]
+  },
+  "../client/components/CreateNewRoom/CreateNewRoom.tsx -> @/ui/Modal/Modal": {
+    "id": 59639,
+    "files": [
+      "static/chunks/453.cf81510a88321f30.js",
+      "static/css/337676155b9e7024.css",
+      "static/chunks/639.856346e818d284e4.js"
+    ]
+  },
+  "../client/components/DeleteRoomModal/DeleteRoomModal.tsx -> @/ui/Modal/Modal": {
+    "id": 59639,
+    "files": [
+      "static/chunks/453.cf81510a88321f30.js",
+      "static/css/337676155b9e7024.css",
+      "static/chunks/639.856346e818d284e4.js"
+    ]
+  },
+  "../client/components/DeletedRoomModal/DeletedRoomModal.tsx -> @/ui/Modal/Modal": {
+    "id": 59639,
+    "files": [
+      "static/chunks/453.cf81510a88321f30.js",
+      "static/css/337676155b9e7024.css",
+      "static/chunks/639.856346e818d284e4.js"
+    ]
+  },
+  "../client/components/Main/Blocks/Title/Title.tsx -> ./ButtonsJoinChat/ButtonsJoinChat": {
+    "id": 63663,
+    "files": [
+      "static/chunks/663.f8d644ca28c9b8b8.js"
+    ]
+  },
+  "../client/components/Room/Chat/Chat.tsx -> ../ChatEditor/ChatEditor": {
+    "id": 32167,
+    "files": [
+      "static/chunks/675-914b238588463c34.js",
+      "static/css/bd9ba4cd2ad7d8c4.css",
+      "static/chunks/167.7319c92e91bc80b7.js"
+    ]
+  },
+  "../client/components/Room/Room.tsx -> ./Chat/Chat": {
+    "id": 15748,
+    "files": [
+      "static/chunks/326.3286d701d0d9b1ce.js",
+      "static/css/f77a98ffe5e8f2c2.css",
+      "static/chunks/748.fd86fbf250916fa1.js"
+    ]
+  }
+}
